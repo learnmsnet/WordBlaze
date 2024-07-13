@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35103.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordBlaze", "WordBlaze.csproj", "{28E225F6-B8AF-4920-891D-279395DCA073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordBlaze", "WordBlaze.csproj", "{CE9A78BC-9DDF-4F99-8859-4CD0E6B314FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{28E225F6-B8AF-4920-891D-279395DCA073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{28E225F6-B8AF-4920-891D-279395DCA073}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{28E225F6-B8AF-4920-891D-279395DCA073}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{28E225F6-B8AF-4920-891D-279395DCA073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9A78BC-9DDF-4F99-8859-4CD0E6B314FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9A78BC-9DDF-4F99-8859-4CD0E6B314FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9A78BC-9DDF-4F99-8859-4CD0E6B314FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9A78BC-9DDF-4F99-8859-4CD0E6B314FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F25345AA-B66F-438D-B288-E1FD9B88F7B9}
+		SolutionGuid = {D9A4AAF2-495A-4C26-A9BE-0FC6D416E2D1}
 	EndGlobalSection
 EndGlobal
