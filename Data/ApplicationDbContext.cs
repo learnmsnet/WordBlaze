@@ -1,9 +1,11 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace WordBlaze.Data
+using WordBlaze.Models.Identity;
+
+namespace WordBlaze.Data;
+
+public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+    : IdentityDbContext<User>(options)
 {
-    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : IdentityDbContext<ApplicationUser>(options)
-    {
-    }
 }
